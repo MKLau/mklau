@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Minimo</title>
+    <title>Pages on MKLau</title>
     <link>/page/</link>
-    <description>Recent content in Pages on Minimo</description>
+    <description>Recent content in Pages on MKLau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Typography</title>
-      <link>/typography/</link>
-      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      <title>DataSci</title>
+      <link>/datasci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/typography/</guid>
-      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/datasci/</guid>
+      <description>Scientific reproducibility I am an advocate of open-source software and data sharing. You can find tools that I&amp;rsquo;ve helped to develop at provenance@harvard and on Github.
+Network analysis software I have helped to code Ecosystem Network Analysis (ENA) algorithms into the R programming language. These have been integrated into an open-source software package called enaR. Check out our develop page at https://github.com/SEELab/enaR.
+I&amp;rsquo;ve also programmed and hosted a Shiny app for exploring the Pitcher Plant Microecosystem model.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
+      <title>Ecology</title>
+      <link>/ecology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Mínimo is a Spanish word that roughly translate to Minimal.
-Minimo is a minimalist theme for Hugo.
-Minimo keeps the focus on your content and lets it shine!</description>
+      <guid>/ecology/</guid>
+      <description>Ecological networks I collaborate with folks in the Systems Ecology and Ecoinformatics (SEE) Lab at UNCW to develop and apply network theory based tools for studying complex ecosystems. For more info, check out Dr. Borrett&amp;rsquo;s SEELab website.
+Genes to ecosystems I have collaborated with researchers at Northern Arizona University on a range of projects studying how genetic variation can impact ecosystems. You can read more about this research in my blog or on the website for the Merriem-Powell Center&amp;rsquo;s website.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Harvard Forest REU Program Harvard Forest I have participated as a mentor and instructor</description>
     </item>
     
   </channel>
