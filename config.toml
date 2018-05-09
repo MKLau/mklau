@@ -1,5 +1,5 @@
 baseURL = "http://github.mklau.io"
-title = "MKLau"
+title = "MK Lau"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -52,8 +52,8 @@ hideMainMenu = false
 enable = true
 
 [params.widgets]
-homepage = ["recent_posts"]
-sidebar = ["about", "social_menu", "taxonomy_cloud"] # 
+homepage = []
+sidebar = ["about", "social_menu", "recent_posts", "taxonomy_cloud"] # 
 footer = []
 
 # [params.opengraph.facebook]
@@ -102,7 +102,7 @@ page = "/:slug/"
 name = "CV"
 weight = -10
 identifier = "CV"
-url = "https://github.com/mklau/cv_mklau"
+url = "https://github.com/MKLau/cv_mklau/raw/master/cv_mklau.pdf"
 
 
 # [blackfriday]
