@@ -7,6 +7,10 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+
+# Add domain name
+echo "mklau.info" > CNAME
+
 # Add changes to git.
 git add .
 
