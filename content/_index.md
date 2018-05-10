@@ -16,15 +16,13 @@ approach to scientific analyses.*
 
 **Also, you can learn more about me and my work at the following:**
 
-*LinkedIn* [Matthew Lau 47880944](https://www.linkedin.com/in/matthew-lau-47880944/)
+*LinkedIn* https://www.linkedin.com/in/mklau-info
 
 *Github*: [MKLau](github.com/MKLau)
 
 *Research Gate*: [Matthew_Lau2](https://www.researchgate.net/profile/Matthew_Lau2)
 
-*Twitter*: [@_MKLau_](https://twitter.com/_MKLau_)
-
-*And also*: [@DataProv](https://twitter.com/DataProv)
+*Twitter*: [@\_MKLau\_](https://twitter.com/_MKLau_) and [@DataProv](https://twitter.com/DataProv)
 
 *Google Scholar*: [VTZ0MSAAAAAJ](https://scholar.google.com/citations?user=VTZ0MSAAAAAJ&hl=en)
 

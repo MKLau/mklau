@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-118976938-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -71,7 +71,7 @@ titleSeparator = "•"
 [params.social]
 email = "mk@mklau.info"
 github = "MKLau"
-linkedin = "matthew-lau-47880944"
+linkedin = "mklau-info"
 twitter = "_MKLau_"
 google_scholar = "VTZ0MSAAAAAJ"
 
